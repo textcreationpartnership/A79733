@@ -1,0 +1,206 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Good counsell come from Scotland: or, A solemn and seasonable vvarning to all estates and degrees of persons throughout the land for holding fast the League &amp; Covenant with England, and avoyding every thing that may prove a snare and tentation to the breach thereof: by the Commissioners of the Generall Assembly. Edinb. 19. Decemb. 1646. The Commission of the General Assembly ordains this warning to be forthwith printed, and that thereafter it be sent to Presbyteries; requiring them, immediately after the receipt thereof, to cause every minister of their number read the same distinctly, and explain it to their people upon a Sabbath day in their severall kirks, and that they report accompt of their diligence with the first conveniencie: appointing in the mean time, that to morrow the same be read in all the kirks of this city. A. Ker.</title>
+            <author>Church of Scotland. General Assembly. Commission.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79733</idno>
+            <idno type="STC">Wing C4227A</idno>
+            <idno type="STC">Thomason E370_9</idno>
+            <idno type="STC">ESTC R201288</idno>
+            <idno type="EEBO-CITATION">99896879</idno>
+            <idno type="PROQUEST">99896879</idno>
+            <idno type="VID">135331</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79733)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 135331)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2459:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Good counsell come from Scotland: or, A solemn and seasonable vvarning to all estates and degrees of persons throughout the land for holding fast the League &amp; Covenant with England, and avoyding every thing that may prove a snare and tentation to the breach thereof: by the Commissioners of the Generall Assembly. Edinb. 19. Decemb. 1646. The Commission of the General Assembly ordains this warning to be forthwith printed, and that thereafter it be sent to Presbyteries; requiring them, immediately after the receipt thereof, to cause every minister of their number read the same distinctly, and explain it to their people upon a Sabbath day in their severall kirks, and that they report accompt of their diligence with the first conveniencie: appointing in the mean time, that to morrow the same be read in all the kirks of this city. A. Ker.</title>
+                  <author>Church of Scotland. General Assembly. Commission.</author>
+                  <author>Ker, A.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Evan Tyler, printer to the Kings most Excellent Majesty,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: A. Ker.</note>
+                  <note>Annotation on Thomason copy: "Jan 4th".</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library, Washington, D.C..</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of Scotland --  History --  Sources --  Early works to 1800.</term>
+               <term>Solemn League and Covenant (1643). --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:135331:1"/>
+            <!-- PDF PAGE 59 -->
+            <pb facs="tcp:135331:1"/>
+            <!-- PDF PAGE 59 -->
+            <p>Good Counſell come from <hi>Scotland:</hi> OR, <hi>A Solemn and Seaſonable</hi> VVARNING To all Eſtates and Degrees of Perſons <hi>throughout the Land:</hi> For holding faſt the League &amp; Covenant with <hi>England,</hi> and avoyding every thing that may prove a ſnare and tentation to the breach thereof:</p>
+            <p>
+               <hi>By the</hi> COMMISSIONERS <hi>of the</hi> Generall Aſſembly.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>Edinb. <date>19. Decemb. 1646.</date>
+                           </dateline>
+                        </opener>
+                        <p>THe Commiſſion of the General Aſſembly Ordains this Warning to be forth<g ref="char:EOLhyphen"/>with printed and that thereafter it be ſent to Presbyteries; Requiring them, immediately after the receipt thereof, to cauſe every Miniſter of their number read the ſarne diſtinctly and explain is to their people upon a Sabbath day in their ſeverall Kirks, and that they report accompt of their diligence with the firſt con<g ref="char:EOLhyphen"/>veniencie: Appointing in the mean time, that to morrow the ſame be read in all the Kirks of this City.</p>
+                        <closer>
+                           <signed>A. Ker.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>EDINBVRGH,</hi> Printed by <hi>Evan Tyler,</hi> Printer to the Kings moſt Excellent Majeſty. 1646.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:135331:2"/>
+            <!-- PDF PAGE 60 -->
+            <head>To the <hi>READER.</hi>
+            </head>
+            <p>REader, Thou haſt here preſented unto thy view a Warning-piece full of Reaſon, Hone<g ref="char:EOLhyphen"/>ſty, and Piety; not at all ſavouring or ſmel<g ref="char:EOLhyphen"/>ling, as if compoſed, or backt by Epiſcopal Com<g ref="char:EOLhyphen"/>mon-Prayer-book men, or ſuch who peep up for the <hi>Covenant,</hi> and yet both Anti-Parliament, and Covenant. But in a ſimplicity of Soule, dri<g ref="char:EOLhyphen"/>ving on the ſame Intereſt and deſigne firſt pro<g ref="char:EOLhyphen"/>pounded, and yet neceſſary judiciouſly to be pro<g ref="char:EOLhyphen"/>ſecuted. And though <hi>Streams</hi> may corrupt through the ſeverall Earths they paſſe; Honour, or the hopes of it, may catch one, profit another; and the Reins let looſe, make the more courſer extra<g ref="char:EOLhyphen"/>vagant: Yet ſee how cleer the <hi>Fountains</hi> are! Here's not, one for this, another for that, a third for nei<g ref="char:EOLhyphen"/>ther, but all for one and the main. The Great mans ſmiles, deſignes, with hope of reward, hath not warpt theſe Worthies, much leſſe made one run into the extreme of Whimſies on one hand, nor into a way of Bitterneſs and Gall on the o<g ref="char:EOLhyphen"/>ther: but Zeal is mixed with Love, and deſire of Union, not urging Uniformity: For increaſe of which Union ſhall ever be the Prayer of</p>
+            <closer>
+               <signed>
+                  <hi>Thine,</hi> and the moſt unworthy of <hi>ENGLAND's Servants.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="political_tract">
+            <pb n="1" facs="tcp:135331:2"/>
+            <!-- PDF PAGE 60 -->
+            <head>
+               <hi>A Solemn &amp; Seaſonable</hi> VVARNING <hi>To all eſtates and degrees of Perſons throughout the Land:</hi>
+            </head>
+            <head type="sub">By the Commiſſioners of the Generall Aſſembly.</head>
+            <opener>
+               <dateline>Edinburgh, <date>17. December. 1646.</date>
+               </dateline>
+            </opener>
+            <p>THe conſcience of our duty, and of the great truſt repoſed in us, ſuffereth us not to be ſilent<g ref="char:punc">▪</g> nor to connive at the preſent Dangers which may juſtly be apprehended and ex<g ref="char:EOLhyphen"/>pected from the enemies of this Cauſe &amp; Covenant; who although they cannot in this conjuncture of time appear in the ſame manner as formerly they have done, yet having retained the ſame principles (while they ſeem to lay aſide their former practiſes) do in a more covert and dangerous way ſtill drive at their own ends: And as Sathan is neither ſleeping nor idle, though he appear not alwayes as a roaring Lyon: ſo theſe who are inſpired and acted by him, have their wheeles ſtill moving, though ſometimes they make no great noiſe. Wherefore, that we may truly and faithfully contribute what is incumbent to us, for preventing or removing any occaſions of new troubles or differences between the King and his People, in both or either of thoſe united Kingdoms, or between the Kingdoms themſelves: And leſt the Church of Chriſt, and the true Reformed Religion be again toſſed with another, and perhaps a greater tem<g ref="char:EOLhyphen"/>peſt in the deepth, after we ſeemed to be neer the harbour: We have found it, not only competent to our place and calling, but ne<g ref="char:EOLhyphen"/>ceſſary for us (according to former laudable preſidents both old and late) to emit this New ſeaſonable Warning to the People of God in this Land, and to all eſtates and degrees of men therein:
+<pb n="2" facs="tcp:135331:3"/>
+               <!-- PDF PAGE 61 -->Whom we exhort, That firſt, and above all things, They apply their thoughts to make peace with God, To take notice of the remain<g ref="char:EOLhyphen"/>ing and renewed tokens of divine diſpleaſure againſt the Land, To tremble at the remembrance of former, and appearances of future judgements, To lament after the Lord, To lye low before the Throne of Grace, To cry mightily to heaven for diſpelling that cloud of ſin which ſeperateth between our God and us, and for turning away that cloud of wrath which hangeth over our heads. There is cauſe to be humbled and to repent, as for all our iniquities, So for the too little aſſiſtance which hath bin given to ſuch as have born the heavieſt burthen, and ſuffered moſt in this Cauſe; And for the too much compliance with &amp; indulgence to many who have been active in the late execrable Rebellion. VVe know that none can reach the perfection of their duty, neither will the Lord reckon with his People according to his Juſtice, but ſpare them who walk in the integrity of their Spirits, as a man ſpareth his own ſon, So that they may rejoyce in his mercy, not withſtanding of their ſhort. comings, wherein they do not allow themſelves; But wilfull neg<g ref="char:EOLhyphen"/>lects are juſt grounds of a great controverſie on the Lords part, and of deep humiliation on ours: And we conceive that the ſailings of many are ſuch becauſe the VVord of the Lord is a burthen unto them; And though they walk in the wayes of their own heart, yet they ſay they ſhall have Peace. VVe would have none that are thus guilty, to account light of it, and ſay, <hi>Is it not a little one?</hi> Every duty whereto we are obliged in the Covenant, is of great conſe<g ref="char:EOLhyphen"/>quence, and breaches even in ſmaller things prove inlets unto more grievous revoltings.</p>
+            <p>VVhen we conſider how many who were once open oppoſers, or ſecret underminers, being received to the Covenant, yet re<g ref="char:EOLhyphen"/>mains diſaffected to the ends of the ſame: VVe cannot but think that we walk in the midſt of ſhares, &amp; that miſteries of iniquity work amomgſt us, which may produce moſt ſad and lamentable effects, unto the prejudice of our Religion and Liberties. Therefore, Be<g ref="char:EOLhyphen"/>cauſe God hath no greater quarrell againſt a Nation then that of a broken Covenant; Let all who fear an oath, remember the vows of God which are upon them, <hi>Watch and Pray,</hi> and take good heed that they be not cheated nor charmed into a violation of all, or any of the Articles of that ſacred and Solemne League and Covenant:
+<pb n="3" facs="tcp:135331:3"/>
+               <!-- PDF PAGE 61 -->And let theſe eſpecially be obſerved and avoided, who do, or ſhall endeavour a diviſion and breach between the Kingdomes, or the making of any factions or parties contrary to the Covenant, under pretence of preſerving the King and his Authority, whilſt they do not conſtantly and ſincerely proſecute and preſſe our frequent de<g ref="char:EOLhyphen"/>ſires of His ſubſcribing the League &amp; Covenant, &amp; giving ſatisfacti<g ref="char:EOLhyphen"/>on in all things to the juſt deſires of both Kingdoms; Which under<g ref="char:EOLhyphen"/>hand dealing can prove nothing elſe, but an abuſing of His Majeſty for mens own deſignes: We wiſh that none ſuffer themſelves to be deceived by any falſe gloſſes of the Covenant, under which ſome may poſſibly urge the keeping of it, ſo as to draw us into a certain breach thereof, and preſſe the defence of the Kings Authority and of Religion, to engage us in thoſe wayes that would tend to the ruine of both: VVe are not now to preſſe the want of full ſatisfa<g ref="char:EOLhyphen"/>ction in the much deſired work of Uniformity, as the ground of a breach between the Nations; Though we ſtill conceive, this Nation will never be wanting to proſecute that work to the untermoſt of their power in all lawfull wayes, according to the League and Covenant</p>
+            <p>Theſe Kingdomes after many fervent Supplications &amp; faithful en<g ref="char:EOLhyphen"/>devours of all the Lovers of Truth &amp; Peace, have been happily uni<g ref="char:EOLhyphen"/>ted into a League and Covenant, which to this day hath been kept inviolably notwithſtanding of all the oppoſition of open Enemies, and plotting of ſecret Vnderminers; And we are confident, that none but ſuch as have hearts full of Atheiſme and Treathery, will attempt the violation thereof, in whole, or in part; And that if any ſhall do the ſame, They ſhall expoſe themſelves to the Curſe of Al<g ref="char:EOLhyphen"/>mighty God, who will be avenged upon all that Swear falſly by his Name. We know that men of perverſe mindes, wanting the feare of God, and meaſuring all things by their own ends, may conceive of it as alterable, or at leaſt that all the Clauſes or Heads thereof are not ſo to be ſtuck upon, but that ſome one or moe may be diſ<g ref="char:EOLhyphen"/>penced with upon civil advantages: But <hi>we have not ſo learned Chriſt</hi> or his Word; Both Nations have Covenanted with God, and each of them with another, in things moſt lawfull and neceſſary for the preſervation and good of both, without any limitation of time: And therefore we and our poſterity are obliged before God unto the obſervation thereof, <hi>as long as the Sun and Moon ſhall endure.</hi>
+               <pb n="4" facs="tcp:135331:4"/>
+               <!-- PDF PAGE 62 -->The ſenſe of theſe things ought to be ſo deeply engraven upon the hearts of all that are in truſt, That as they ſhould from their ſouls abhor every thought of a breach with <hi>England;</hi> So ſhould they carefully and wiſely ſtudy to avoid every thing that may prove a ſnare &amp; tentation unto the ſame. Amongſt other things, If His ſhall have thoughts of comming to this Kingdom at this time, he not having as yet ſubſcribed the League and Covenant, nor ſatisfied the lawfull deſires of his loyall Subjects in both Nations, We have juſt cauſe to fear that the conſequences of it may be very dangerous, both to his Majeſtie and theſe Kingdomes; Which therefore we deſire may be timely prevented.</p>
+            <p>For ſo long as his Majeſtie doth not approve in his heart, and ſeal with his hand the League and Covenant, we cannot but apprehend, that according to his former Principles, he will walk in oppoſition to the ſame, and ſtudy to draw us unto the violation thereof, and the diſſolution of the union ſo happily begun between us and our Brethren, To weaken the Confidence and truſt, and to entertain Jealouſies, and make diviſions amongſt our ſelves; Neither is it poſſible, But that our receiving Him in this preſent poſture of af<g ref="char:EOLhyphen"/>fairs, will confirme the ſuſpicions of the Engliſh Nation, of our un<g ref="char:EOLhyphen"/>der-hand dealing with him before his coming to our Army; And make them, not without cauſe, to think, That We purpoſe to diſ<g ref="char:EOLhyphen"/>poſe of him without their conſent, and to their prejudice, Which is contrary to the Profeſſion of theſe that were in truſt at His Ma<g ref="char:EOLhyphen"/>jeſties firſt coming to the Scots Quarters, and overthroweth all the Arguments that have been uſed by the Commiſſioners of our Parliament in their Papers concerning <hi>The diſpoſing of His Ma<g ref="char:EOLhyphen"/>jeſties Perſon by the joynt advice and common conſent of both King<g ref="char:EOLhyphen"/>doms given in to both Houſes of Parliament in</hi> England; Nor doe we ſee how we can vindicate ſuch a practice from a direct breach of our engagements to them by Covenant and Treaty, VVhich where not only to expoſe us into the hazard of a Bloody VVarre, but to in<g ref="char:EOLhyphen"/>volve us in the guilt of Perjury. And what greater diſſervice could be done to His Majeſtie and his Poſterity, then to give way to a courſe that might prove prejudiciall to their intereſt in the Crown and Kingdome of <hi>England.</hi>
+            </p>
+            <p>Our carriage now for many years paſt, in the midſt of many ten<g ref="char:EOLhyphen"/>tations, hath put us beyond all ſuſpicion in the point of our Loy<g ref="char:EOLhyphen"/>alty,
+<pb n="5" facs="tcp:135331:4"/>
+               <!-- PDF PAGE 62 -->nor have wee the leaſt thoughts of deſerting the Kings Ma<g ref="char:EOLhyphen"/>jeſty in a juſt and good cauſe; Being bound by our Covenant in our ſeverall vocations to endeavour with our eſtates and Lives, to pre<g ref="char:EOLhyphen"/>ſerve and defend His Perſon and Authority, in the defence and preſervation of the true Religion and Liberties of the Kingdomes; And ſo farre as His Majeſtie ſhall be for theſe, We really are, and we truſt the reſt of his Kingdome will be for him: Yet we cannot deny, but openly avouch it, That if His Majeſtie (which the Lord forbid) ſhall not ſatisfie the juſt deſires of His People, Both Nations ſtands mutually obliged by that inviolable Covenant to purſue the ends therein expreſſed (which cannot be divided) againſt all letts and impediments whatſoever. It is therefore our moſt earneſt and longing deſire, That as theſe who are in truſt with the publike af<g ref="char:EOLhyphen"/>fairs of this Kingdom have heretofore with all earneſtneſſe &amp; care in all their addreſſes dealt with His Majeſty, with much ſtrength of reaſon and vehemency of affection, ſo they would ſtill deal with him, to grant his Royall conſent to the deſires of both Kingdoms, for ſetling Religion according to the Covenant, and for ſecuring a perfect and durable Peace (which we look upon as the only hope<g ref="char:EOLhyphen"/>full means of preſerving himſelfe, His Crown and Poſterity) That His Majeſty may return to His Houſes of Parliament in <hi>England</hi> as a reconciled Prince, to ſatisfied Subjects; And that acclamations of joy may be heard in all His Majeſties Dominions, and no ſound of Warre heard therein any more, except againſt the bloody Iriſh Rebells, under whoſe barbarous and cruell perſecution, our diſtreſ<g ref="char:EOLhyphen"/>ſed Brethren, both in this Kingdom and in Ireland, are ſtill groaning and crying out to us and to our Brethren in England, <hi>Be at peace among your ſelves, and come to help us.</hi>
+            </p>
+            <closer>
+               <signed>A. Ker.</signed>
+            </closer>
+         </div>
+         <div type="Parliamentary_query">
+            <pb n="6" facs="tcp:135331:5"/>
+            <!-- PDF PAGE 63 -->
+            <head>Some <hi>Quaeries</hi> propounded by the Parliament of Scot<g ref="char:EOLhyphen"/>land, to the Miniſters that are Commiſsioners from the Generall Aſſembly.</head>
+            <p>If the King ſhall come into this Kingdome, and that the Kingdome of <hi>England</hi> ſhall exclude him from the Government there, for his leaving them without granting the Propo<g ref="char:EOLhyphen"/>ſitions; Whether or not is will be lawfull to this Kingdom to aſſiſt him for the recovery of the Government, he not granting the Propoſitions concerning Religion and the Covenant, and not giving a ſatisfactory Anſwer in the remnant Propoſitions?</p>
+            <div type="part">
+               <head>The Miniſters anſwer.</head>
+               <p>The Quarie preſuppoſeth the Kings comming into this Kingdom, which caſe (for the Reaſons expreſſed in our late <hi>Warning</hi>) we humbly conceive ſhould not be put in the Queſtion, and therefore deſires your Lordſhips to go about all means for the preſent prevention of it, as a matter of moſt dangerous conſequence to Religion, the Kirk and Kingdom, and to the King himſelf and his Poſterity:</p>
+               <p>But if the queſtion be ſtated ſimply, without ſuppoſing ſuch a Caſe. in theſe terms, <hi>If the King be excluded from Government in <hi>England,</hi> for not granting the Propoſiti<g ref="char:EOLhyphen"/>ons concerning Religion and the Covenant, and for not giving ſatisfactory anſwer to the remnant Propoſitions: whether in that caſe it be Lawfull to this Kingdome to aſſiſt him for the recovery of the Government, or if it be not law<g ref="char:EOLhyphen"/>ful?</hi> (being put to it) We cannot but anſwer, in regard of the engagements of this King<g ref="char:EOLhyphen"/>dome by Covenant and Treaty, <hi>Negative.</hi>
+               </p>
+               <p>If there be any other Votes ſaid to come from Scot<g ref="char:EOLhyphen"/>land, the Reader may chooſe to believe them.</p>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:135331:5"/>
+               <!-- PDF PAGE 63 -->
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
